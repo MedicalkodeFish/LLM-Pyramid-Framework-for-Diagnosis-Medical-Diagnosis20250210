@@ -1,0 +1,19 @@
+> Reasoning
+Like a seasoned medical professor, I highlight crucial aspects of a patient's health, using clear visuals and simple words to ensure they fully understand.
+Ensuring health literacy is key, so I break down complex medical jargon, use engaging visuals, and clarify with precise, everyday language for better patient comprehension.
+To break down complex medical topics, I ensure clarity with visual aids and straightforward language, fostering a deeper understanding of the subject matter.
+I’m refining my approach by translating intricate medical jargon into clear, engaging language and supporting it with diagrams and charts, making the information understandable and enjoyable for all.
+Simplifying complex medical tasks involves rephrasing medical terms clearly and introducing engaging visuals to aid understanding, ensuring a comprehensive grasp of the subject matter.
+Breaking down complex medical jargon with clear, simple language and engaging visuals ensures understanding and learning, making patient education more effective and enjoyable.
+Reasoned for 6 seconds
+
+<$[{"Potential differential diagnoses":
+    {
+        "1. Cyclic Vomiting Syndrome with dehydration-induced tachyarrhythmia": "The patient has a documented history of cyclic vomiting syndrome, and her current presentation of vomiting and tachycardia is likely due to dehydration and metabolic disturbances (elevated anion gap, ketosis) caused by the recurrent vomiting episodes, leading to supraventricular tachycardia.",
+        "2. Opioid Withdrawal": "Although opioid withdrawal can lead to autonomic instability and gastrointestinal symptoms, the patient's urine toxicology screen remains positive for opioids, ruling out acute withdrawal as a cause.",
+        "3. Substance-Induced Tachycardia": "There is no evidence of stimulant use (e.g., cocaine) in the toxicology screen, and opioids and cannabinoids are not typically associated with severe tachyarrhythmia, which makes this less likely.",
+        "4. Thyrotoxicosis": "Hyperthyroidism can cause tachycardia and neuropsychiatric symptoms, but there is no supporting clinical or laboratory evidence (e.g., thyroid tests or clinical signs like tremors, heat intolerance) to suggest thyrotoxicosis.",
+        "5. Acute Upper Gastrointestinal Bleeding (Mallory-Weiss Tear)": "Coffee-ground emesis may suggest upper GI bleeding, but this does not account for the patient's chronic cyclic vomiting pattern or the associated autonomic instability and tachycardia."
+    }},
+    {"Most Likely Main Diagnosis": "Cyclic Vomiting Syndrome with dehydration-induced supraventricular tachycardia", "Reason": "The patient’s known history of cyclic vomiting syndrome, combined with the acute onset of vomiting, dehydration, and metabolic disturbances (ketosis and elevated anion gap), likely precipitated her supraventricular tachycardia. The absence of alternative gastrointestinal causes (e.g., infection, obstruction) and supporting ECG findings further solidify this diagnosis."}
+]$>

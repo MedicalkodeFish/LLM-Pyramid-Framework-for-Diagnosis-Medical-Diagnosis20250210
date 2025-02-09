@@ -1,0 +1,15 @@
+<$[  
+  {
+    "Potential differential diagnoses": {  
+      "1. Cyclic vomiting syndrome (CVS)": "The patient has a documented history of cyclic vomiting syndrome, and her presentation of recurrent bouts of nausea and vomiting could fit this diagnosis. However, additional acute findings, including tachycardia, coffee-ground emesis, and anion gap metabolic acidosis, make CVS less likely to be the primary cause in this case.",  
+      "2. Cannabinoid hyperemesis syndrome (CHS)": "The patient has a recent history of cannabinoid use, which can be associated with CHS, characterized by nausea, vomiting, and abdominal pain. However, coffee-ground emesis, supraventricular tachycardia, and systemic findings suggest a more severe systemic or cardiac cause is at play.",  
+      "3. Acute gastrointestinal bleeding (e.g., peptic ulcer disease)": "The presence of coffee-ground emesis is suggestive of gastrointestinal bleeding. However, there is no mention of melena or clear systemic instability typically seen with severe gastrointestinal bleeding. In addition, the lack of NSAID use, Helicobacter pylori history, or specific gastrointestinal symptoms like severe epigastric pain weakens this diagnosis.",  
+      "4. Supraventricular tachycardia with associated hemodynamic/metabolic consequences": "An acute presentation with supraventricular tachycardia can lead to secondary symptoms such as nausea, vomiting, hemodynamic instability, and acute metabolic acidosis. These findings match several features seen in this case.",  
+      "5. Thyrotoxicosis or thyroid storm": "The patient’s tachycardia, agitation, warm skin, and systemic symptoms might align with thyrotoxicosis (e.g., thyroid storm). However, the absence of a documented thyroid dysfunction history, ophthalmopathy, or goiter and the lack of confirmatory tests make this less likely at this time."  
+    }
+  },  
+  {  
+    "Most Likely Main Diagnosis": "Supraventricular Tachycardia (likely AVNRT or AVRT) with Associated Metabolic Consequences",  
+    "Reason": "The primary finding of prolonged supraventricular tachycardia (long RP interval tachycardia terminated with adenosine) supports this diagnosis. Supraventricular tachycardia can produce nausea, vomiting, abdominal pain, dizziness, hemodynamic instability, and secondary metabolic acidosis (elevated anion gap of 30). The patient’s profound tachycardia (pulse up to 210 bpm) likely induced systemic hypoperfusion, contributing to gastrointestinal symptoms and coffee-ground emesis (likely stress-induced gastritis or mucosal ischemia). Additional symptoms, like agitation and warm skin, may represent hyperadrenergic states caused by the arrhythmia rather than a primary endocrinologic or gastrointestinal disorder. The resolution of tachycardia with adenosine and the emergence of sinus rhythm further solidify the primary role of supraventricular tachycardia in this case."  
+  }  
+]$>

@@ -1,0 +1,14 @@
+<$[
+{"Potential differential diagnoses" :
+    {
+        "1. Acute Cannabinoid Hyperemesis Syndrome (CHS)": "The patient's recent use of cannabinoids, combined with cyclic vomiting syndrome (CVS) history and 'coffee ground' emesis, points to CHS, which is often triggered by longstanding cannabis use and characterized by refractory nausea, vomiting, and abdominal pain.",
+        "2. Severe Dysmenorrhea with Secondary Pain": "She has a history of severe dysmenorrhea with pain timed to menses. This could partially explain her lower abdominal pain but does not account for tachycardia, agitation, or coffee-ground emesis.",
+        "3. Acute Drug Toxicity/Withdrawal": "Positive urine toxicology for fentanyl, oxycodone, and cannabinoids raises concern for acute drug toxicity or withdrawal. Symptoms like agitation, tachycardia, and labile affect can be seen in withdrawal syndromes.",
+        "4. Supraventricular Tachycardia (SVT) with Hemodynamic Consequences": "The documented SVT with a heart rate of 165–210 bpm could exacerbate symptoms like nausea, vomiting, and lightheadedness, but it is likely a secondary event driven by stress or metabolic derangements rather than the primary cause.",
+        "5. Nonsteroidal Anti-Inflammatory Drugs (NSAID)-Induced Gastritis or Peptic Ulcer Disease": "The patient’s emesis of 'coffee ground' material may suggest upper gastrointestinal bleeding, possibly attributable to chronic NSAID use (though no direct mention of NSAID use in the medications). However, no direct clinical evidence strongly supports this diagnosis."
+    }
+},
+{"Most Likely Main Diagnosis": "Acute Cannabinoid Hyperemesis Syndrome (CHS)", 
+ "Reason": "The patient has a history of cyclic vomiting syndrome (CVS) and recent cannabis use, both strongly associated with CHS. CHS can produce cyclic nausea, vomiting, and coffee ground emesis (likely due to Mallory-Weiss tears from repeated vomiting), along with abdominal pain exacerbated by cannabis use. Negative findings for infectious or structural gastrointestinal pathology, combined with a positive finding of hepatic steatosis (possibly related to substance use and diet), support CHS as the unifying diagnosis. The chronological association between cannabis use and symptom exacerbation strengthens this diagnosis. SVT is a secondary complication likely triggered by autonomic stress and dehydration caused by CHS. The absence of confirmed NSAID use and the lack of structural or infectious GI pathology narrows the diagnosis further to CHS."
+}
+]$>

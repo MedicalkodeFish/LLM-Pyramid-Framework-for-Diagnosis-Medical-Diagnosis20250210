@@ -1,0 +1,18 @@
+{
+"Potential differential diagnoses": {
+    "1. Thyroid Storm": "Presence of tachycardia (210 bpm), agitation, tremor, hyperthermia (39.4°C), and GI symptoms (vomiting, abdominal pain)",
+    "2. Cocaine Toxicity": "History of cocaine use, tachycardia, agitation, and sympathetic activation",
+    "3. Cyclic Vomiting Syndrome": "Previous diagnosis and similar episodes of intractable vomiting",
+    "4. Serotonin Syndrome": "History of MDMA use, agitation, hyperthermia, and autonomic instability",
+    "5. Acute Adrenal Crisis": "Nausea, vomiting, abdominal pain, hypotension, and electrolyte disturbances"
+},
+"Most Likely Main Diagnosis": "Thyroid Storm",
+"Reason": "The patient presents with a constellation of symptoms that strongly suggest thyroid storm: 
+1. Cardiovascular symptoms: extreme tachycardia (210 bpm), supraventricular tachycardia
+2. Thermoregulatory dysfunction: fever of 39.4°C, warm skin
+3. Central nervous system effects: agitation, rapid/pressured speech, labile affect
+4. GI/hepatic manifestations: vomiting, abdominal pain, elevated alkaline phosphatase
+5. Weight loss (6.8 kg in 11 weeks)
+6. The presentation is acute and severe, requiring ICU admission
+The diagnosis explains the multi-system involvement and severity of presentation. While other diagnoses like cocaine toxicity could explain some symptoms, the persistence and severity of symptoms, along with the documented weight loss and multi-organ involvement, make thyroid storm the most likely primary diagnosis."
+}

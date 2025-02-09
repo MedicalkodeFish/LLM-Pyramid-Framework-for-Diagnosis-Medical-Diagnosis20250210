@@ -1,0 +1,23 @@
+> Reasoning
+**Taking a closer look**
+I’m assessing a request for a professional medical discussion as M.D. Joe, highlighting the need for a detailed, respectful response.
+**Crafting a response**
+I’m piecing together an effective response, aiming for a medically professional and respectful tone. This involves synthesizing pertinent information with empathy and precision.
+**Crafting a medical response**
+I’m ensuring a comprehensive answer as M.D. Joe, integrating relevant medical knowledge and a respectful tone to address the user's request effectively.
+**Crafting a thoughtful response**
+I’m aiming to formulate a detailed, respectful, and medically sound response, integrating relevant knowledge and empathy. This involves meticulously analyzing the request and ensuring a professional tone throughout.
+**Crafting a response**
+I'm focused on constructing a detailed, respectful medical response, ensuring it is thorough, sensitive, and professionally articulated to meet the user's needs.
+**Crafting a comprehensive response**
+I’m thinking through a detailed, respectful medical response, ensuring it’s thorough, sensitive, and professionally articulated to meet user needs.
+Reasoned for 15 seconds
+
+<$[{"Potential differential diagnoses" :
+        {"1. Cocaine-induced sympathomimetic toxicity": "The patient has a history of cocaine use and presents with rapid heart rate (supraventricular tachycardia), agitation, and tremors. Cocaine can lead to sympathetic overactivity, causing tachycardia, hypertension, and other sympathetic symptoms.",
+        "2. Acute gastroenteritis": "This could explain the patient's vomiting, abdominal pain, and changes in stool, but there is no significant fever or positive stool culture findings that would support this diagnosis.",
+        "3. Acute pancreatitis": "Though this can cause abdominal pain, vomiting, and elevated liver enzymes, the patient's imaging studies did not show signs of pancreatitis, and her liver tests were mostly normal apart from mild alkaline phosphatase elevation.",
+        "4. Toxic ingestion or overdose": "The patient has a history of polysubstance abuse, and ingestion of toxins like methadone or other opioids could cause symptoms of vomiting, agitation, and altered mental status, though her lab findings don't strongly support this.",
+        "5. Cyclic vomiting syndrome exacerbation": "The patient has a history of cyclic vomiting syndrome, and while she has similar symptoms to previous episodes, the current severity, tachycardia, and additional signs of intoxication suggest a more complex scenario."}},
+        {"Most Likely Main Diagnosis":  "Cocaine-induced sympathomimetic toxicity", "Reason": "The patient has a history of cocaine use and presents with significant autonomic instability, including tachycardia, agitation, hypertension, and tremors. Cocaine is a sympathomimetic agent that can explain the constellation of symptoms, including the abnormal ECG findings, along with her altered mental status and labile affect."}
+        ]$>

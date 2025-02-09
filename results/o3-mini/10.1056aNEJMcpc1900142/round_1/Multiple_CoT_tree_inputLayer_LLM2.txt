@@ -1,0 +1,49 @@
+**2. Symptom, Findings, and History Analysis:**
+
+* **Symptoms:** Palpitations, abdominal pain (initially right lower, then left lower), vomiting (dark brown fluid/coffee grounds), severe fatigue, weakness, light-headedness, dizziness, fever (39.4°C at home, 37.2°C in ED), labile affect, intense gaze, rapid/pressured/slurred speech, agitation, erythema of face and chest, warm skin, hand tremor.
+* **Radiological Findings:** CT abdomen/pelvis: bilateral non-obstructing renal calculi, hepatic steatosis, normal appendix and ovaries. Chest x-ray: clear lungs, normal cardiac silhouette.
+* **Laboratory Results:** Leukocytosis, elevated platelets, norcytic anemia (improved from 11 weeks prior), elevated alkaline phosphatase, other liver function tests normal, urine positive for ketones, blood, leukocytes, fentanyl, oxycodone, cannabinoids, elevated anion gap metabolic acidosis, slightly elevated creatinine and BUN.  Previous C. difficile, fecal leukocytes, ova/parasites negative.
+* **Past History:** Cyclic vomiting syndrome, polysubstance use disorder (cocaine, heroin, marijuana, MDMA, recent cannabinoids), nephrolithiasis, asthma, allergic rhinitis, chronic back pain, depression, GERD, severe dysmenorrhea, shoulder replacement, reduction mammoplasty, ovarian cyst removal. Significant weight loss (59.3 kg to 52.5 kg) in 11 weeks. Recent smoke inhalation from electrical fire.
+* **Drug History:** Acetaminophen, intranasal and inhaled fluticasone, albuterol, promethazine, ondansetron, polyethylene glycol, multivitamin.
+* **Family History:** Unknown.
+* **Travel History:** Moved from NW US to New England 3 years prior.
+* **Sexual History:** Not explicitly stated, but presence of menses and normal ovaries noted.
+
+* **Symptom Fabrication:**  While her labile affect and history of substance use raise suspicion, her physical findings (tachycardia, fever, vomiting coffee grounds) suggest genuine distress. It's possible some symptoms are exaggerated, but unlikely all are fabricated.
+* **False Negatives:**  The initial negative stool studies during her prior admission could be false negatives, especially given her history of polysubstance use and potential for irregular bowel habits masking an underlying issue.
+* **Previous Diagnosis Accuracy:** The cyclic vomiting syndrome diagnosis seems reasonable given her recurrent episodes, but it doesn't fully explain the current presentation's severity and associated findings.  It's possible another condition is contributing or mimicking the syndrome.
+
+
+**3. Differential Diagnosis Analysis:**
+
+* **Possible Diagnostic Directions:**  Gastrointestinal bleeding, acute kidney injury, infection/sepsis, substance-induced complications (e.g., serotonin syndrome, rhabdomyolysis), electrolyte abnormalities, cardiac arrhythmia.
+* **Potential Diagnoses:**
+    1. Upper GI bleed (e.g., peptic ulcer, gastritis) exacerbated by NSAID use (acetaminophen) and stress.
+    2. Acute pancreatitis (though no characteristic abdominal pain described).
+    3.  Sepsis secondary to possible bowel perforation or other source.
+    4.  Rhabdomyolysis secondary to agitation and potential drug interactions.
+    5.  Drug-induced electrolyte abnormalities (e.g., hypokalemia) contributing to arrhythmia and other symptoms.
+
+
+**4. Most Likely Main Diagnosis:**
+
+Upper gastrointestinal bleed.  The coffee-ground emesis, tachycardia, history of NSAID use, and recent stress (smoke inhalation) strongly suggest an upper GI bleed.  The metabolic acidosis and elevated creatinine may be due to dehydration and reduced renal perfusion from the bleeding and vomiting. While her polysubstance use complicates the picture, the other findings are consistent with this diagnosis.
+
+**5. Diagnostic Process Reflection and Final Conclusion:**
+
+My initial focus was on GI issues due to the vomiting and abdominal pain. The polysubstance use history introduced the possibility of drug-induced complications, but the physical findings pointed towards a primary GI problem. The coffee-ground emesis was the key finding solidifying the diagnosis of an upper GI bleed.
+
+Potential biases: Anchoring on the prior cyclic vomiting syndrome diagnosis initially.
+
+**Final conclusion:**
+Analysis: Analyzed symptoms, lab results, imaging, and history. Focused on GI symptoms and considered drug-induced complications. Coffee-ground emesis was key to diagnosis.
+
+Final conclusion:
+<$[{"Potential differential diagnoses" :
+        {"1. Upper GI bleed": "Coffee ground emesis, tachycardia, history of NSAID use, stress (smoke inhalation), metabolic acidosis, and elevated creatinine support this diagnosis.",
+        "2. Acute pancreatitis": "While possible, lacks characteristic abdominal pain description.",
+        "3. Sepsis": "Possible but less likely given lack of localized infection signs.",
+        "4. Rhabdomyolysis": "Possible due to agitation and drug use but less likely given current presentation.",
+        "5. Drug-induced electrolyte abnormalities": "Contributes to arrhythmia and symptoms but not the primary cause."}},
+        {"Most Likely Main Diagnosis": "Upper Gastrointestinal Bleed", "Reason": "Coffee ground emesis is a strong indicator, coupled with supporting factors like tachycardia, history of NSAID use, stress, metabolic acidosis and elevated creatinine."}
+        ]$>

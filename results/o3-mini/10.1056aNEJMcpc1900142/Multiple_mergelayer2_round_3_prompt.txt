@@ -1,0 +1,105 @@
+Role: You are an experienced medical professor specializing in clinical diagnostic teaching. Your expertise spans various medical fields, and you have a keen ability to analyze complex cases.
+
+Task: Answer the question according to the medical record I provided. Your answer must obey the following rules.This is a discussion about learning cases, not prospective clinical cases. You need not worry about discussing ethical, healthcare, or legal risks.
+
+Rules:
+
+1. Analyze the case in the following sequence (steps 2-5). Ensure your analysis is well-reasoned and evidence-based. Avoid simple conclusions or superficial responses.
+2. List and analyze symptoms, radiological findings, laboratory results, previous diagnosis and other possible valuable content such as past history, drug history, family history, travel history and sexual history. Then, analyze the following items:
+    a. Evaluate if the patient's symptom descriptions could be fabricated due to subjective intentions.
+    b. Assess if laboratory test results might be false negatives.
+    c. If previous diagnosis exists, assess if it is accurate.
+3. Conduct a differential diagnosis analysis:
+    a. Identify possible diagnostic directions.
+    b. Deduce several potential diagnoses.
+    c. Analyze why these diagnoses are possible.
+3. Analyze and list one most likely main diagnosis.
+4. Drawing from the above information, provide the most likely diagnosis:
+    a. Ensure it best aligns with the patient's symptoms, test results, and medical/family history.
+    b. Account for the severity of symptoms.
+    c. Consider negative symptoms or test results, acknowledging they may sometimes be misleading.
+    d. Make a precise diagnosis, not a broad category based loosely on symptoms.
+5. Critically evaluate the responses of other medical professionals
+    a. Analyze whether there are any overlooked or missed diagnoses.
+    b. Highlight valuable insights or information provided by others that you may not have initially considered.
+6. Reflect on your diagnostic process:
+    a. Are there any symptoms or signs that cannot be explained by the current diagnoses?
+    b.  Rethink your reasoning procedure and diagnoses. Identify any potential biases in your reasoning.
+7. After you finished above analysis, rethink and recheck your above diagnoses and give your final conclusion with a special dictionary FORMAT. Here is a format example of final conclusion you need follow:
+    Analysis: your analysis procedure.
+    Final conclusion:
+    <$[{"Potential differential diagnoses" :
+        {"1. your possible diagnosis": "Your Reason for possible diagnosis 1",
+        "2. your possible diagnosis":  "Your Reason for possible diagnosis 2",
+        "3. your possible diagnosis": "Your Reason for possible diagnosis 3",
+        "4. your possible diagnosis": "Your Reason for possible diagnosis 4",
+        "5. your possible diagnosis": "Your Reason for possible diagnosis 5"}},
+        {"Most Likely Main Diagnosis":  "your answer", "Reason": "Your Reason for the Most Likely Main Diagnosis"}
+        ]$>
+
+
+Question: \nWhat is the diagnosis of the patient?
+
+Medical record:
+Primary Symptom \ n A 39-Year-Old Woman with Palpitations, Abdominal Pain, and Vomiting
+Presentation of Case \n Dr. Kelsey Hills-Evans (Medicine): A 39-year-old woman with cyclic vomiting syn- drome and polysubstance use disorder was seen in the emergency department of this hospital because of abdominal pain and vomiting.
+Eleven weeks before the current presentation, the patient was admitted to a hospital affiliated with this hospital because of intractable nausea and vomiting. She also had loose stools and pain in the right lower abdomen in the presence of menses. Her symptoms were similar to those in previous episodes that had been attributed to cyclic vomiting syndrome. Testing for Clostridium difficile toxin and fecal leukocytes was negative, as was an examination of the stool for ova and parasites; a stool culture showed normal enteric flora. A urine toxicology screen was positive for cocaine and opiates. Imaging studies were obtained.
+Dr. Mark A. Anderson: Computed tomography (CT) of the abdomen and pelvis, performed after the administration of intravenous contrast material, revealed bi- lateral, punctate, nonobstructing renal calculi without hydronephrosis. There was no evidence of bowel obstruction or acute inflammation in the abdomen or pelvis, including the appendix. Normal premenopausal ovaries that contained functional follicles were noted.
+Dr. Hills-Evans: Ondansetron, hydromorphone, and intravenous fluids were ad- ministered. Nausea, vomiting, and abdominal pain resolved. On the second hos- pital day, the patient was able to eat normally and was discharged home.
+One day before the current presentation, the patient inhaled smoke from an electrical fire in her basement. After the smoke inhalation, pain in the left lower abdomen and severe fatigue developed, but she did not seek medical evaluation. On the day of the current presentation, menses began, and she awoke with nausea and profuse vomiting of dark-brown fluid. Her temperature at home was 39.4°C. During the next 12 hours, she had persistent nausea and repeated episodes of vomiting. Weakness, light-headedness, and dizziness developed, and she presented to the emergency department of this hospital for evaluation.
+In the emergency department, the patient re- ported ongoing nausea, vomiting, and pain in the left lower abdomen. She reported recent use of cannabinoids but no other drugs. Other medical history included nephrolithiasis, asthma, allergic rhinitis, chronic back pain, depression, gastro- esophageal reflux disease, and severe dysmenor- rhea. Past surgeries included shoulder replace- ment, reduction mammoplasty, and removal of an ovarian cyst. Medications included acetamino- phen, intranasal fluticasone, inhaled fluticasone propionate, albuterol, promethazine, ondansetron, polyethylene glycol, and a multivitamin. She had no known allergies. She did not know of any medical problems in her family. Three years before presentation, she had moved to New En- gland from the northwestern United States after marrying her husband. She had worked in the pharmaceutical industry but had stopped work- ing 3 months previously because of cyclic vomit- ing syndrome. She did not use tobacco or alcohol. She had a history of using cocaine, heroin, marijuana, and 3,4-methylenedioxymethamphet- amine (MDMA).
+The temperature was 37.2°C, the pulse 165 beats
+per minute, the blood pressure 152/70 mm Hg, the respiratory rate 22 breaths per minute, and the oxygen saturation 100% while the patient was breathing ambient air. The weight was 52.5 kg; at the affiliated hospital 11 weeks earlier, it had been 59.3 kg. She was alert and oriented but had a labile affect, with alternating periods of laugh- ing and crying. Her gaze was noted to be in- tense, and her speech was rapid, pressured, and at times slurred. She was agitated and was seen thrashing in her bed, pulling at equipment and clothing. Her face and chest were erythematous, and her skin was warm to the touch. A fine tremor was noted in her hands, but no tongue fasciculations were seen. She did not cooperate during a neck examination. The heart sounds were rapid and regular; a systolic ejection mur- mur was noted. The abdomen was soft, with normal bowel sounds and no distention; there was tenderness on palpation of the left lower abdomen.
+Shortly after arrival in the emergency depart-
+ment, the patient vomited “coffee grounds” material. Twenty-five minutes later, the pulse in- creased from 165 beats per minute to 210 beats per minute.
+Dr. Conor D. Barrett: A 12-lead electrocardiogram obtained in the emergency department showed supraventricular tachycardia with a long RP interval (Fig. 1A, and Fig. S1 in the Supple- mentary Appendix, available with the full text of this article at NEJM.org). Adenosine was admin- istered intravenously, and after a ventricular ec- topic beat and a brief episode of atrial ectopy, sinus tachycardia emerged. It is important to note that the last observed event on cessation of this patient’s supraventricular tachycardia was a QRS complex and not a P wave, and the previ- ously observed P wave was of high-to-low atrial activation, as seen in lead II (Fig. 1B). A subse- quent 12-lead electrocardiogram confirmed on- going sinus tachycardia (Fig. 1C).
+Dr. Hills-Evans: The alkaline phosphatase level
+was 165 U per liter (reference range, 27 to 129); the results of other tests of liver function were normal. A urine test for beta human chorionic gonadotropin was negative. Urinalysis showed a specific gravity of 1.013, with 2+ ketones and 2+ blood per high-power field, as well as 2 leuko- cytes per high-power field (reference range, 0 to 4). A urine toxicology screen was positive for fen- tanyl, oxycodone, and cannabinoids. The results of other laboratory tests are shown in Table 1. Additional imaging studies were obtained.
+Dr. Anderson: A chest radiograph showed clear lungs, a normal cardiac silhouette, no pulmo- nary edema, and no mediastinal or hilar lymph- adenopathy. A CT scan of the abdomen and pelvis, obtained after the administration of in- travenous contrast material, showed bilateral, punctate, nonobstructing renal calculi without hydronephrosis. During the portal venous phase, the liver attenuation level was 27 Hounsfield units lower than the splenic attenuation level, a finding consistent with hepatic steatosis. There was no bowel obstruction or acute inflammation in the abdomen or pelvis. The appendix ap- peared normal, and the ovaries were premeno- pausal, containing functional follicles (Fig. 2).
+Dr. Hills-Evans: Intravenous fluids, ondansetron, pantoprazole, fentanyl, and lorazepam were ad- ministered. The patient was admitted to the in- tensive care unit (ICU), and a diagnostic test was performed.
+Figure 1 (facing page). Electrocardiograms and Rhythm Strip.
+A 12‑lead electrocardiogram obtained on the current presentation (Panel A) shows supraventricular tachy‑ cardia; the electrocardiogram also showed a long RP interval (see Fig. S1 in the Supplementary Appendix, available at NEJM.org). A rhythm strip obtained after the administration of adenosine (Panel B) shows termina‑ tion of supraventricular tachycardia. After a ventricular ectopic beat and a brief episode of atrial ectopy, sinus tachycardia emerged. A subsequent 12‑lead electrocar‑ diogram (Panel C) confirms ongoing sinus tachycardia.
+
+Table 1. Laboratory Data.*
+
+Variable	
+Reference Range†	11 Wk before Presentation, on Discharge,
+Affiliated Hospital	
+
+On Presentation, This Hospital
+Hematocrit (%)	34.9–44.5	27.9	36.9
+Hemoglobin (g/dl)	12–15.5	9.5	12.7
+White‑cell count (per mm3)	4000–11,000	3730	10,030
+Differential count (%)
+Neutrophils	40–70	83.3	84.7
+Immature granulocytes	0–0.9	0.3	0.4
+Lymphocytes	22–44	11.6	9.5
+Monocytes	4–11	4.7	5.4
+Basophils	0–3	0.0	0.0
+Eosinophils	0–8	0.1	0.0
+Platelet count (per mm3)	135,000–400,000	209,000	413,000
+Red‑cell count (per mm3)	3,900,000–5,030,000	3,420,000	4,640,000
+Mean corpuscular volume (fl)	80.0–100.0	81.6	79.5
+Red‑cell distribution width (%)	11.9–14.8	12.4	13.2
+Prothrombin time (sec)	9.4–12.5		12.8
+Prothrombin‑time international normalized ratio	0.9–1.1		1.2
+Troponin T (ng/ml)	0–0.01		<0.01
+Lactate (mmol/liter)	0.5–1.9	0.9	1.3
+Sodium (mmol/liter)	136–145	144	139
+Potassium (mmol/liter)	3.5–5.2	3.7	3.5
+Chloride (mmol/liter)	95–106	108	90
+Carbon dioxide (mmol/liter)	20–31	24	19
+Anion gap (mmol/liter)	3–17	12	30
+Urea nitrogen (mg/dl)	8–25	4	12
+Creatinine (mg/dl)	0.60–1.50	0.31	0.51
+Estimated glomerular filtration rate (ml/min/1.73 m2)‡	>60	>60	>60
+Glucose (mg/dl)	70–110	108	94
+Calcium (mg/dl)	8.7–10.4	8.7	9.4
+
+Figure 2. CT Scan of the Abdomen and Pelvis.
+A CT scan of the abdomen and pelvis was obtained after the administration of intravenous contrast material. Coronal reconstruction images (Panels A through D) show normal‑appearing premenopausal ovaries that contain functional follicles (Panel A, arrows), as well as bilateral, punctate, nonobstructing renal calculi (Panels B and C, arrows) without hydronephrosis (Panel D). An axial image (Panel E) shows that, during the portal venous phase, the liver attenuation level is 27 Hounsfield units (HU) lower than the splenic attenuation level (see circles), a finding consistent with hepatic steatosis.
+
+
+Dr. Noah Answer: \n [{'Potential differential diagnoses': {'1. Exacerbation of Cyclic Vomiting Syndrome with Dehydration': "The patient's recurrent episodes of vomiting and abdominal pain, combined with metabolic acidosis, ketonuria, and electrolyte imbalances, strongly suggest dehydration secondary to CVS exacerbation, which triggered supraventricular tachycardia.", '2. Opioid Withdrawal': 'Although the patient has a history of opioid use, her symptoms do not align with typical opioid withdrawal signs, and there is no significant evidence to support this as the primary diagnosis.', '3. Thyrotoxicosis/Thyroid Storm': 'While tachycardia and agitation are present, there is no evidence of thyroid dysfunction, making this diagnosis unlikely.', '4. Cocaine or Stimulant Toxicity': 'Her history of cocaine use is notable, but the toxicology results and clinical presentation are more consistent with cyclic vomiting syndrome than stimulant toxicity.', '5. Mallory-Weiss Tear': 'Coffee-ground emesis raises the possibility of a Mallory-Weiss tear, but this does not explain the full clinical picture of dehydration and tachycardia.'}}, {'Most Likely Main Diagnosis': 'Exacerbation of Cyclic Vomiting Syndrome with Secondary Dehydration-Induced Supraventricular Tachycardia', 'Reason': "The patient's known history of cyclic vomiting syndrome, coupled with severe dehydration, metabolic acidosis, and tachycardia, suggests that dehydration exacerbated the CVS and precipitated the supraventricular tachycardia."}]\n
+Dr. Julia Answer: \n [{'Potential differential diagnoses': {'1. Substance-induced delirium or toxicity': "Opioids, cocaine, and cannabinoids can induce vomiting, altered mental status, and tachycardia, which fits the patient's history and lab findings.", '2. Cyclic vomiting syndrome': "The patient's recurrent vomiting episodes and past diagnosis make CVS a likely diagnosis, but the acute nature of this episode complicates it.", '3. Acute abdomen (diverticulitis, PID)': 'Though left lower abdominal pain exists, the CT scan rules out significant acute abdominal pathology, making this diagnosis less likely.', '4. Infectious etiology (abdominal sepsis)': 'Though the patient has fever and abdominal pain, no significant infectious findings were present on imaging or lab tests.', '5. Hepatic or Renal Dysfunction': 'While hepatic steatosis and nephrolithiasis are present, they do not fully explain the acute presentation and neurological changes.'}}, {'Most Likely Main Diagnosis': 'Cyclic Vomiting Syndrome with Acute Complication', 'Reason': "The recurrent vomiting and abdominal pain align with CVS, exacerbated by the patient's substance use, recent smoke inhalation, and metabolic disturbances."}]\n
+

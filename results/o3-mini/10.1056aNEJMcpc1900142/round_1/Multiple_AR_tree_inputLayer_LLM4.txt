@@ -1,0 +1,39 @@
+> Reasoning
+**Piecing together clues**
+I’m compiling a list of potential diagnoses for a patient with cyclic vomiting syndrome, substance use disorder, and recent inhalation of smoke from an electrical fire.
+**Weighing possibilities**
+Considering hyperthyroidism and carbon monoxide or cyanide poisoning due to smoke inhalation. Elevated anion gap suggests metabolic acidosis from ingestion.
+**Piecing it together**
+The patient's drug history and supraventricular tachycardia suggest a potential opiate withdrawal syndrome, particularly given the use of fentanyl, oxycodone, and cannabinoids.
+**Reassessing the situation**
+The patient's increased agitation, fine tremor, and severe tachycardia suggest substance intoxication, likely opiates, given the positive screens and history.
+**Piecing together symptoms**
+Cyclic vomiting syndrome recurrence, stress-induced exacerbation post-smoke inhalation or menses, GI bleeding, and worsening supraventricular tachycardia with coffee-ground vomiting are the main diagnoses.
+**Assessing the possibilities**
+Considering a misdiagnosis of cyclic vomiting syndrome; the symptoms could align more with cannabinoid hyperemesis syndrome, particularly given her positive urine toxins.
+**Piecing together the diagnosis**
+Taking a closer look, the diagnosis involves cyclic vomiting syndrome with acute exacerbation, supraventricular tachycardia from electrolyte imbalances and dehydration, and likely GI bleeding from a Mallory-Weiss tear.
+**Pinpointing potential causes**
+The high anion gap suggests metabolic acidosis, likely from ketones due to vomiting. Considering cyclic vomiting syndrome exacerbation and potential Mallory-Weiss tear complicating coffee ground emesis.
+**Tracing back the cause**
+Recurrent cyclic vomiting syndrome likely precedes complications like coffee ground vomiting and supraventricular tachycardia, possibly triggered by catecholamine surge from vomiting or pain.
+**Narrowing down options**
+I’m assessing possibilities including cyclic vomiting syndrome exacerbation (likely cannabinoid hyperemesis syndrome), Mallory-Weiss tear, and supraventricular tachycardia due to catecholamine surge, given the symptoms and negative cocaine test.
+**Piecing together**
+I'm leaning towards cyclic vomiting syndrome exacerbation, potentially Cannabinoid hyperemesis syndrome or classic cyclic vomiting syndrome, complicated by a Mallory-Weiss tear, considering the symptoms and test results.
+**Piecing it together**
+OK, let me see. Exacerbation of cyclic vomiting syndrome, possibly due to cannabinoid hyperemesis syndrome, seems likely. Coffee ground emesis is a complication, and inhaling smoke might not be relevant.
+**Assessing the situation**
+The main diagnosis likely involves an exacerbation of cyclic vomiting syndrome, possibly linked to cannabinoid hyperemesis syndrome, with a secondary Mallory-Weiss tear. The patient’s history and recent symptoms support this.
+**Piecing together differential diagnoses**
+I’m mapping out potential diagnoses such as cyclic vomiting syndrome exacerbation, Mallory-Weiss tear, cannabinoid hyperemesis syndrome, and supraventricular tachycardia secondary to dehydration.
+Reasoned about patient's symptoms and diagnosis for 15 seconds
+
+<$[{"Potential differential diagnoses" :
+    {"1. Exacerbation of cyclic vomiting syndrome": "The patient has a well-documented history of cyclic vomiting episodes with similar presentations (intractable nausea, vomiting, and abdominal pain) and negative imaging studies, making a recurrence of cyclic vomiting syndrome the most fitting diagnosis.",
+     "2. Mallory-Weiss tear": "The presence of coffee‐ground emesis suggests an upper gastrointestinal mucosal tear from forceful vomiting; however, this is most likely a complication secondary to the underlying vomiting syndrome rather than the primary disorder.",
+     "3. Cannabinoid hyperemesis syndrome": "Given her recent cannabinoid use and recurrent vomiting, this is a possibility, but her longstanding history of cyclic vomiting syndrome (with similar episodes previously attributed to it) makes this less likely as the primary diagnosis.",
+     "4. Supraventricular tachycardia secondary to dehydration/catecholamine surge": "Her significant tachycardia, which worsened with ongoing vomiting, is most consistent with a physiologic response to dehydration and stress rather than a primary cardiac arrhythmia disorder.",
+     "5. Substance-induced hyperadrenergic state": "While her history of polysubstance use might contribute to sympathetic overactivity, current toxicology is only positive for opiates and cannabinoids, and this does not fully account for the cyclic nature of her symptoms."}},
+ {"Most Likely Main Diagnosis":  "Exacerbation of cyclic vomiting syndrome with secondary Mallory-Weiss tear", "Reason": "The patient’s recurrent episodes of intractable nausea and vomiting—with prior episodes managed similarly and negative imaging studies—strongly support cyclic vomiting syndrome as the primary diagnosis. The coffee‐ground emesis is best explained as a secondary Mallory‐Weiss tear from forceful vomiting, and the supraventricular tachycardia appears to be a consequence of dehydration and catecholamine surge rather than an independent primary process."}
+]$>

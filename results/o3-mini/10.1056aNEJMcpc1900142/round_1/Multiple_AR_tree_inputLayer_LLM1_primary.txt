@@ -1,0 +1,13 @@
+<$[  
+  {"Potential differential diagnoses": 
+    {
+      "1. Cyclic vomiting syndrome (CVS)": "CVS is part of the patient's medical history and could explain recurrent episodes of nausea and vomiting. However, the acute severity of this presentation and the associated supraventricular tachycardia are atypical for an isolated CVS episode.",
+      "2. Cannabinoid hyperemesis syndrome (CHS)": "CHS is a consideration given the patient's recent cannabinoid use and recurrent vomiting; however, the presence of coffee-ground vomitus, tachycardia, and severe abdominal pain suggests an alternative or additional etiology.",
+      "3. Hyperthyroidism (e.g., thyroid storm)": "Hyperthyroidism, or a thyroid storm, could explain the palpitations, agitation, tremor, labile affect, and tachycardia. However, there are no clear findings of thyroid enlargement, exophthalmos, or laboratory evidence to support this diagnosis here.",
+      "4. Pheochromocytoma": "This catecholamine-secreting tumor could cause episodes of severe hypertension, tachycardia, palpitations, sweating, and agitation. However, the absence of sustained hypertension and episodic nature of symptoms makes this diagnosis less likely.",
+      "5. Acute gastrointestinal bleeding (e.g., gastric or duodenal ulcer)": "The coffee-ground emesis raises suspicion for upper gastrointestinal bleeding. However, this does not fully explain the patient's cardiac symptoms or systemic signs like the elevated anion gap and leukocytosis."
+    }
+  }, 
+  {"Most Likely Main Diagnosis": "Catecholamine toxicity-related supraventricular tachycardia (SVT) due to polysubstance use and drug-induced hyperadrenergic state", 
+   "Reason": "The patient's presentation, including severe palpitations, supraventricular tachycardia, agitation, tremor, labile affect, and history of polysubstance use (notably recent cocaine and fentanyl) strongly suggests a diagnosis of catecholamine toxicity. Cocaine is particularly known to cause hyperadrenergic states and cardiac arrhythmias such as SVT. Moreover, the coffee-ground emesis could suggest gastric mucosal damage secondary to ischemia or stress induced by the hyperadrenergic state, or potential interaction with NSAIDs used for pain management (e.g., dysmenorrhea). The absence of sustained hypertension or other consistent features of pheochromocytoma or thyroid storm supports this precise toxicological diagnosis. The anion gap metabolic acidosis likely reflects a combination of lactic acidosis and ketosis (from prolonged vomiting and fasting). The elevated alkaline phosphatase and hepatic steatosis may represent secondary findings without primary relevance to the acute pathology."}  
+]$>

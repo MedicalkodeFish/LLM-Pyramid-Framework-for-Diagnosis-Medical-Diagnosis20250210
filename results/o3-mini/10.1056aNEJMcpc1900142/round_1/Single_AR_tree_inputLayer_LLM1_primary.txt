@@ -1,0 +1,38 @@
+> Reasoning
+**Analyzing symptoms**
+I’m mapping out a 39-year-old woman with cyclic vomiting syndrome, polysubstance abuse, and a history of nephrolithiasis, presenting dark-brown fluid vomit, tachycardia, and elevated anion gap.
+**Piecing together observations**
+I'm considering the cyclic vomiting syndrome triggered by stress, recent smoke inhalation without carbon monoxide symptoms, and the significance of left lower abdominal pain likely related to menses.
+**Recalculating anion gap**
+Recalculating the anion gap, it’s 30, indicating high anion gap metabolic acidosis, possibly from lactic acidosis, ketoacidosis, or toxin ingestion, despite typical metabolic alkalosis in cyclic vomiting syndrome.
+**Evaluating potential causes**
+I'm looking at elevated alkaline phosphatase, cyclic vomiting syndrome, and coffee ground emesis, likely due to a Mallory-Weiss tear, htat could indicate a severe GI bleed.
+**Consider the possibilities**
+Hmm, I’m thinking about smoke inhalation poisoning, thyrotoxicosis from weight loss and symptoms, and atrial tachycardia from catecholamine excess due to excessive vomiting.
+**Evaluating differential diagnosis**
+I’m digging into acute gastroenteritis with Mallory-Weiss tear, or an acute exacerbation of cyclic vomiting syndrome, with arrhythmia possibly triggered by vomiting-induced hypovolemia.
+**Piecing together symptoms**
+I’m connecting the dots: cyclic vomiting syndrome likely triggered arrhythmia. Coffee-ground vomitus hints at a Mallory-Weiss tear from intense vomiting and stress-induced hypovolemia.
+**Piecing it together**
+I’m grappling with cyclic vomiting syndrome-induced arrhythmia, indicative of a Mallory-Weiss tear. The high anion gap and positive ketones suggest ketoacidosis, aligning with her stress-induced tachycardia.
+**Assessing complications**
+Evaluating the likely diagnosis of an acute exacerbation of cyclic vomiting syndrome with Mallory-Weiss tear and supraventricular tachycardia, considering stress-induced hypovolemia, catecholamine surge, and potential toxin ingestion.
+**Assessing possibilities**
+I’m thinking through cyclic vomiting syndrome exacerbation with secondary complications like Mallory-Weiss tear and supraventricular tachycardia, linked to hypovolemia, catecholamine surge, or substance withdrawal.
+**Evaluating potential triggers**
+I'm focusing on cyclic vomiting syndrome complexed by Mallory-Weiss tear and supraventricular tachycardia due to hypovolemia and catecholamine surge. Cannabinoid hyperemesis syndrome and recent cannabinoid use are also considered.
+**Mapping out compulsive behavior**
+I'm exploring potential triggers for cyclic vomiting syndrome, such as recent cannabinoid use or smoke inhalation, and considering acute exacerbation linked to these factors or menstruation.
+**Piecing together diagnoses**
+Current findings point to the exacerbation of cyclic vomiting syndrome with Mallory-Weiss tear and supraventricular tachycardia due to hypovolemia and catecholamine surge, with other conditions less likely.
+Reasoned about potential diagnoses for patient for 16 seconds
+
+<$[{"Potential differential diagnoses" : {
+  "1. Exacerbation of cyclic vomiting syndrome complicated by a Mallory–Weiss tear": "The patient has a known history of cyclic vomiting syndrome. In this episode, her profuse vomiting—producing coffee‐ground emesis—is highly suggestive of a mucosal tear (Mallory–Weiss tear) from forceful retching. Negative imaging and stool studies help rule out other intraabdominal causes.",
+  "2. Supraventricular tachycardia secondary to hypovolemia and sympathetic surge": "The documented SVT with a long RP interval is likely not a primary arrhythmia but a secondary response to volume depletion and catecholamine release from the severe vomiting episode.",
+  "3. Cannabinoid hyperemesis syndrome": "Although the patient has used cannabinoids recently, her longstanding pattern of cyclic vomiting syndrome and prior similar episodes make this etiology less likely to be the primary driver.",
+  "4. Inhalational injury from smoke exposure": "Her recent exposure to smoke could contribute to systemic symptoms; however, the clear chest radiograph and lack of pulmonary findings argue against significant inhalational injury as the cause of her presentation.",
+  "5. Thyrotoxicosis-induced arrhythmia": "While hyperthyroidism can precipitate tachyarrhythmias and gastrointestinal upset, there are no specific clinical or laboratory findings (such as thyroid function tests) to support this diagnosis in the current context."
+}},
+{"Most Likely Main Diagnosis": "Exacerbation of cyclic vomiting syndrome complicated by a Mallory–Weiss tear", "Reason": "The patient’s recurring history of cyclic vomiting syndrome, coupled with an episode marked by severe retching resulting in coffee‐ground emesis, strongly supports a diagnosis of cyclic vomiting syndrome exacerbation with a complication of Mallory–Weiss tear. This diagnosis accounts for both her gastrointestinal symptoms and the secondary cardiovascular effects (SVT) observed due to hypovolemia and sympathetic activation."}
+]$>

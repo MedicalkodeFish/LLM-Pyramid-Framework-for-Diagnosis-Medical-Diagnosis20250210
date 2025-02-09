@@ -1,0 +1,57 @@
+Please help me check and correct the format of medical records. If the content provided to you does not contain diagnostic information, or just reasoning information or contains content refusing diagnosis, please only reply "No diagnosis", no extra comment.
+
+Else, please ensure the output strictly follows the target format (between <$ and $> should be a list containing two dictionaries, pay attention to the dictionary format). Some formats may have minor errors that need careful verification.
+
+Regardless of whether the original record matches the target format, the output must conform to the target format. If there are no items to process, please reply with "No relevant information."
+
+There might be cases of missing words - please complete them appropriately while maintaining consistency with the original data. Do not fabricate information. If the confidence level for completing missing information is low, leave it as is. The most important thing is to maintain correct formatting.
+
+The pattern of the target format is:
+<$[{"Potential differential diagnoses" :
+        {"1. your possible diagnosis": "Your Reason for possible diagnosis 1",
+        "2. your possible diagnosis":  "Your Reason for possible diagnosis 2",
+        "3. your possible diagnosis": "Your Reason for possible diagnosis 3",
+        "4. your possible diagnosis": "Your Reason for possible diagnosis 4",
+        "5. your possible diagnosis": "Your Reason for possible diagnosis 5"}},
+        {"Most Likely Main Diagnosis":  "your answer", "Reason": "Your Reason for the Most Likely Main Diagnosis"}
+        ]$>
+
+Example:
+Original content:
+2. Symptoms, findings, and history analysis:
+
+Symptoms:
+- Palpitations
+- Abdominal pain (left lower quadrant)
+- Dizziness
+- Fever (.4°C at home)
+
+3. Differential diagnosis analysis:
+
+a. Possible diagnostic directions:
+- Endocrine disorders
+- Toxicology-related conditions
+- Metabolic disturbances
+
+Final conclusion:
+<$$[{"Potential differential diagnoses" :
+    {"1. Thyroid storm": "Tachycardia, fever, agitation, gastrointestinal symptoms, and metabolic acidosis are consistent with this diagnosis.",
+    {"2. Acute adrenal insuffi""Abdominal pain, vomiting, weakness, and electrolyte disturbances could indicate this condition.",
+    "3. Drug-induced tachycardia and vomiting": "Positive toxicology screen and history of substance use support this possibility.",
+    "4. Cyclic vomiting syndrome exaPrevious diagnosis and similar symptoms to past episodes.",
+    "5. Sepsis": "Tachycardia, fever, and elevated white blood cell count could indicate an infectious process."}},
+    {"Most Likely Main Diagnosis":  "Thyroid storm", "Reason": "The combination of severe tachycardia, fever, gastrointestinal symptoms, agitation, and metabolic acidosis strongly suggests thyroid storm. "}
+    ]
+
+After formatting:
+<$[{"Potential differential diagnoses" :
+    {"1. Thyroid storm": "Tachycardia, fever, agitation, gastrointestinal symptoms, and metabolic acidosis are consistent with this diagnosis.",
+    "2. Acute adrenal insufficiency":  "Abdominal pain, vomiting, weakness, and electrolyte disturbances could indicate this condition.",
+    "3. Drug-induced tachycardia and vomiting": "Positive toxicology screen and history of substance use support this possibility.",
+    "4. Cyclic vomiting syndrome exacerbation": "Previous diagnosis and similar symptoms to past episodes.",
+    "5. Sepsis": "Tachycardia, fever, and elevated white blood cell count could indicate an infectious process."}},
+    {"Most Likely Main Diagnosis":  "Thyroid storm", "Reason": "The combination of severe tachycardia, fever, gastrointestinal symptoms, agitation, and metabolic acidosis strongly suggests thyroid storm. This diagnosis best explains the severity and range of symptoms, including the dramatic tachycar to 210 bpm. While other diagnoses are possible, they do not as comprehensively account for the patient's presentation."}
+    ]$>
+
+Original record to be processed:
+No diagnosis

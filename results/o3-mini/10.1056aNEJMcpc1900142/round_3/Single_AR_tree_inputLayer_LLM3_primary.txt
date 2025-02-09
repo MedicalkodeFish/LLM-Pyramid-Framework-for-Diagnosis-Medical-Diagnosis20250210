@@ -1,0 +1,23 @@
+> Reasoning
+**Crafting professional expertise**
+I’m grounding the response in expert knowledge, while tailoring the tone and content to suit a medical professional's perspective, ensuring it aligns seamlessly with the structured format.
+**Laying out the options**
+I’m mapping out various aspects of the user's request, carefully crafting a response that aligns with a professional medical perspective, while ensuring clarity throughout.
+**Piecing together for precision**
+I’m ensuring the response is clear and professional, suitable for a medical professor. Tailoring the tone and content to align with this role is key to crafting a coherent response.
+**Ensuring alignment**
+I'm working on crafting a response that honors the user's request by maintaining a professional tone and clarity that matches the level of a medical professor's expertise.
+**Addressing clarity and tone**
+I'm ensuring the response is concise, clear, and professionally aligned with the role of a medical professor, balancing expertise with satisfying the user's needs.
+**Ensuring alignment**
+I'm focusing on ensuring the response aligns with the professional tone and clarity expected of a medical professor, tailoring it to be precise and informative throughout.
+Reasoned for 6 seconds
+
+<$[{"Potential differential diagnoses" :
+        {"1. Cyclic vomiting syndrome (CVS)": "The patient has a history of CVS with prior episodes involving nausea, vomiting, and abdominal pain, and this presentation mirrors previous symptoms.",
+        "2. Substance abuse (especially cocaine and opiate use)": "The patient's recent urine toxicology screen is positive for fentanyl, oxycodone, and cannabinoids, and substance use could potentially explain her altered mental state, tachycardia, and vomiting.",
+        "3. Acute pancreatitis": "The presence of nausea, vomiting, abdominal pain, and elevated liver enzymes could suggest acute pancreatitis, although imaging did not reveal any signs of pancreatic inflammation or enlargement.",
+        "4. Hepatic steatosis": "The CT scan shows findings consistent with hepatic steatosis, which could be contributing to abdominal discomfort and other symptoms, but it would not explain the acute tachycardia or vomiting.",
+        "5. Acute infection (e.g., gastroenteritis)": "Although the patient has a fever and gastrointestinal symptoms, the lack of an infectious source on imaging and lab work, including negative stool cultures, makes this less likely."}},
+        {"Most Likely Main Diagnosis":  "Cyclic vomiting syndrome (CVS)", "Reason": "The patient's history of cyclic vomiting syndrome, with a pattern of recurrent episodes of nausea, vomiting, and abdominal pain, is the most likely diagnosis. This, coupled with the negative infectious workup, absence of a clear gastrointestinal obstruction, and recurrence of similar symptoms, makes CVS the leading diagnosis."}
+        ]$>
