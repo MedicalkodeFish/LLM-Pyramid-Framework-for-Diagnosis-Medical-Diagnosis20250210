@@ -7,7 +7,7 @@ This is a medical diagnosis system based on multiple Large Language Models (LLMs
 ## System Architecture
 
 The system consists of the following main components:
-![System Architecture](./imgs/system_architecture.png)
+![System Architecture](./imgs/system_architecture1.png)
 
 ### 1. Model Structure
 - Pyramid framework structure
@@ -111,3 +111,25 @@ The author is still learning and finds the format validation part particularly c
 "# LLM-Pyramid-Framework-for-Diagnosis" 
 "# LLM-Pyramid-Framework-for-Diagnosis" 
 "# LLM-Pyramid-Framework-for-Diagnosis-Medical-Diagnosis20250210" 
+
+
+## Disclaimer and Copyright Notice
+
+### Important Notice
+This repository contains code and resources associated with our pending publication: "Enhancing Large Language Model Performance in Complex Diagnosis: A Reasoning Pyramid Framework Integrating Diverse Sampling Strategies and Hierarchical Sequential Reasoning"
+
+### Copyright and Ownership
+- All code and related resources in this repository are developed by our research team
+- All rights are reserved by the original authors
+- Unauthorized commercial or academic use of this code or its derivatives is strictly prohibited
+
+### Citation Requirements
+- If you reference or use this code in your research, proper attribution to our work is mandatory
+- Complete citation information will be provided upon formal publication of our paper
+
+### Prohibited Actions
+- Using this code for paper submission, patent application, or other intellectual property claims without authorization
+- We reserve the right to take legal action against any unauthorized use or infringement
+
+---
+
