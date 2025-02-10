@@ -104,5 +104,24 @@ LLMs的调用基于多种LLMs的APIs接口管理工具，通过requests库进行
 
 作者是个菜鸡，回答格式验证部分让我感到很棘手，运行中有几率会出现错误，特别是性能不好的LLMs作为主干推理模型时。欢迎大家一起交流学习，Email: 15689983735@163.com
 
+## 免责声明与版权告示
+
+### 重要声明
+本代码仓库包含我们待发表论文《Enhancing Large Language Model Performance in Complex Diagnosis: A Reasoning Pyramid Framework Integrating Diverse Sampling Strategies and Hierarchical Sequential Reasoning》的相关代码与资源。
+
+### 版权与所有权
+- 本代码仓库中的所有代码及由我们的研究团队开发
+- 所有权利均由原作者保留
+- 严禁未经授权将本代码或其衍生品用于任何商业或学术用途
+
+### 引用要求
+- 如果您在研究中参考或使用了本代码，必须对我们的工作进行适当引用
+- 完整的引用信息将在论文正式发表后提供
+
+### 禁止行为
+- 未经授权，禁止将此代码用于论文投稿、专利申请或其他知识产权声明
+- 对于任何未经授权的使用或侵权行为，我们保留采取法律行动的权利
+
+---
 
 
