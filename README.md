@@ -19,7 +19,7 @@ The system consists of the following main components:
 The modules include LLM1-4, where LLM4 is the main reasoning model, and LLM1-3 are collaborative models for auxiliary reasoning. Usually, LLM4 is the best-performing model, while LLM1-3 are models with slightly lower performance.
 
 ### 2. Model Configuration
-LLMs are called through API management tools for various LLMs interfaces, using the requests library. Users can deploy their own API management tools through one API or new API projects for use in this project, or purchase third-party APIs.
+LLMs are called through API management tools for various LLMs interfaces, using the requests library. Users can deploy their own API management tools through one API (https://github.com/songquanpeng/one-api) or new API (https://github.com/Calcium-Ion/new-api) projects for use in this project, or purchase third-party APIs.
 - Supports multiple LLM models:
   - Claude-3-Sonnet
   - GPT-4
