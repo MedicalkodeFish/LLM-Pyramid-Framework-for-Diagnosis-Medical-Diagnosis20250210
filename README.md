@@ -99,19 +99,6 @@ The system includes comprehensive error handling mechanisms:
 The author is still learning and finds the format validation part particularly challenging. Errors may occur during operation, especially when using lower-performing LLMs as the main reasoning model. Feel free to discuss and learn together! Email: 15689983735@163.com. If there is an API call issue, please contact me, and I will share an API after seeing the message.
 
 
-"# Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Complex-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis" 
-"# LLM-Pyramid-Framework-for-Diagnosis-Medical-Diagnosis20250210" 
-
 
 ## Disclaimer and Copyright Notice
 
