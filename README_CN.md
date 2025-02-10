@@ -19,7 +19,7 @@
 模块包含LLM1-4，其中LLM4是主干推理模型，LLM1-3是辅助推理的协作模型。通常LLM4是性能最好的模型，LLM1-3是性能稍ss差的模型。
 
 ### 2. 模型配置
-LLMs的调用基于多种LLMs的APIs接口管理工具，通过requests库进行调用。使用者可以通过oneAPI(https://github.com/songquanpeng/one-api)或者newAPI(https://github.com/Calcium-Ion/new-api)项目部署自己的API管理工具后应用于本项目。或者自行某宝购买中介API。
+LLMs的调用基于多种LLMs的APIs接口管理工具，通过requests库进行调用。使用者可以通过oneAPI(https://github.com/songquanpeng/one-api)或者newAPI(https://github.com/Calcium-Ion/new-api) 项目部署自己的API管理工具后应用于本项目。或者自行购买API。
 - 支持多种LLM模型:
   - Claude-3-Sonnet
   - GPT-4o
